@@ -1,0 +1,25 @@
+#chat_container{
+	border: 1px dotted grey;
+    width: 500px;
+}
+
+
+#results{
+	height: 200px;
+    border: 1px solid blue;
+    margin: 10px;
+    overflow-y: auto; 
+}
+
+
+#username, #chat_message{
+	display: block;
+	width: 95%;
+	margin: 5px auto;
+}
+
+#post_message{
+	display: block;
+	margin: 10px auto;
+	font-size: 15px;
+}    
